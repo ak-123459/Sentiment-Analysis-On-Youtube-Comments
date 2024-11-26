@@ -1,0 +1,13 @@
+bs4~=0.0.2
+pip~=24.2
+numpy~=1.26.4
+scipy~=1.14.1
+matplotlib~=3.9.2
+pandas~=2.2.2
+playwright~=1.48.0
+seaborn
+textblob~=0.17.1
+spacy~=3.6.0
+transformers~=4.42.0
+wordcloud~=1.9.2
+plotly~=5.9.0
