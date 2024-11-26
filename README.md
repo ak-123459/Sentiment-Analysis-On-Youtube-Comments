@@ -177,7 +177,7 @@ In the very first step we need to install  [python](https://www.python.org/downl
   
 `git clone https://github.com/ak-123459/Sentiment-Analysis-On-Youtube-Comments.git`
 
-`cd https://github.com/ak-123459/Sentiment-Analysis-On-Youtube-Comments/Data Extractions`
+`cd https://github.com/ak-123459/Sentiment-Analysis-On-Youtube-Comments/`
 
 `python main.py`
 
@@ -202,7 +202,7 @@ In the very first step we need to install  [python](https://www.python.org/downl
  - ## **Project Structure**
 
 
-- **Main/Data Extractions**
+- **Main/**
 
   - `main.py`: main python file.
   - `Youtube_Scraping.py`
@@ -213,11 +213,14 @@ In the very first step we need to install  [python](https://www.python.org/downl
   - `LLM_sentimet_analysis.ipynb`: notebook contains code for sentiment analysis using a large language models.
  
     
-- **main.py/**
+- **Main/**
   - `requirement.txt`: software requirements.
 
   
    </div>
+
+
+
 
 
 
