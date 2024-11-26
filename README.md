@@ -214,7 +214,7 @@ In the very first step we need to install  [python](https://www.python.org/downl
  
     
 - **main.py/**
-  -'requirement.txt': software requirements.
+  - `requirement.txt`: software requirements.
 
   
    </div>
