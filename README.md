@@ -232,10 +232,10 @@ In the very first step we need to install  [python](https://www.python.org/downl
   - `main.py`: main python file.
   - `Youtube_Scraping.py`
     
-- **Main/**
+- **Main/Sentiment analysis notebooks.zip/**
   
-  - `Classical_SentimentAnalysis.ipynb`: notebook contains code for sentiment analysis using a classical methods. .
-  - `LLM_sentimet_analysis.ipynb`: notebook contains code for sentiment analysis using a large language models.
+  - `Classical_Sentiment_analysis.ipynb`: notebook contains code for sentiment analysis using a classical methods. .
+  - `sentimet_analysis_LLM.ipynb`: notebook contains code for sentiment analysis using a large language models.
  
     
 - **Main/**
