@@ -142,7 +142,7 @@ Entities.
 13) `matplotlib`
 14) `seaborn`
 15) `spacy`
-
+16) `transformers`
   
 </div>
 
@@ -167,6 +167,31 @@ In the very first step we need to install  [python](https://www.python.org/downl
   #### open command prompt in your system and run
 
   - python
+
+
+#### creating virtual environment:-
+
+`python -m venv venv`
+`source venv/bin/activate`     # On Linux/Mac
+`venv\Scripts\activate `       # On Windows
+
+
+  ### Manually python package installations for jupyter notebook/pycharm -:
+  
+  `pip install ---`
+
+### install packages using requirements.txt:-
+
+`pip install --upgrade -r requirements.txt`
+
+
+
+  ### playwright  chromium  browser installations for jupyter notebook/pycharm -:
+
+ `playwright install chromium`
+
+**Note:-** - 1) first you need to install playwright and after chromium.
+       
 
 <div align= "start">
   
@@ -222,8 +247,24 @@ In the very first step we need to install  [python](https://www.python.org/downl
 
 
 
+  
+***
+<div align= "start">
+
+&nbsp; &nbsp; <a href="https://imgbb.com/"><img src="https://i.ibb.co/SyNZJd3/icons8-skills-64.png" width="50" alt="icons8-skills-64" border="0"></a>
+
+</div>
 
 
+<div align= "start">
+
+- ### **Methodology**
+
+
+
+
+
+</div>
 
 
 
