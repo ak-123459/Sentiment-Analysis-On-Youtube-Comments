@@ -189,5 +189,43 @@ In the very first step we need to install  [python](https://www.python.org/downl
 
 
 
+***
+<div align= "start">
+ 
+&nbsp; &nbsp; <a href="https://imgbb.com/"><img src="https://i.ibb.co/DDYn9zS/icons8-structure-48.png" width="50" alt="icons8-structure-48" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
+</div>
+
+
+
+<div align= "start">
+  
+ - ## **Project Structure**
+
+
+- **Main/Data Extractions**
+
+  - `main.py`: main python file.
+  - `Youtube_Scraping.py`
+    
+- **Main/**
+  
+  - `Classical_SentimentAnalysis.ipynb`: notebook contains code for sentiment analysis using a classical methods. .
+  - `LLM_sentimet_analysis.ipynb`: notebook contains code for sentiment analysis using a large language models.
+ 
+    
+- **main.py/**
+  -'requirement.txt': software requirements.
+
+  
+   </div>
+
+
+
+
+
+
+
+
+
 
 
