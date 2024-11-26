@@ -152,7 +152,7 @@ Entities.
 ***
 <div align= "start">
  
-&nbsp; &nbsp; <a href="🚀"><img src="🚀" width="50" alt="icons8-requirements-64" border="0"></a>
+&nbsp; &nbsp; <a href="https://imgbb.com/"><img src="https://i.ibb.co/5hBTLK6/rocket.png" alt="rocket" width="50" border="0"></a>
 
 </div>
 
