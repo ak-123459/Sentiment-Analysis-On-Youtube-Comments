@@ -28,11 +28,8 @@ The main objective of this project to classify the viewers sentiment(Positive,ne
 4. [Project Structure](#Project-Structure)
 5. [Installation](#Installation)
 6. [Methodology](#Methodlogy)
-7. [Data Visualisation](#Data-Visualisation)
-8. [Key Findings](#KeyFindings)
-9. [Recommendations](#Recommendations)
-10. [Conclusion](#Conclusion)
-11. [Contributors](#Contributors)
+7. [Conclusion](#Conclusion)
+8. [Contributors](#Contributors)
 
  <div/>
 
