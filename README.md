@@ -156,7 +156,7 @@ Entities.
 - ## **Installation**
 
 
-### python installation for web scraping -:
+#### python installation for web scraping -:
 
 In the very first step we need to install  [python](https://www.python.org/downloads/release/python-31011/) script that will extract the data from from Youtube websites.in the very first step you need to download python 3.10.11 you can download from this link like :- [python](https://www.python.org/downloads/release/python-31011/)
 
@@ -173,17 +173,17 @@ In the very first step we need to install  [python](https://www.python.org/downl
 `venv\Scripts\activate `       # On Windows
 
 
-  ### Manually python package installations for jupyter notebook/pycharm -:
+  #### Manually python package installations for jupyter notebook/pycharm -:
   
   `pip install ---`
 
-### install packages using requirements.txt:-
+#### install packages using requirements.txt:-
 
 `pip install --upgrade -r requirements.txt`
 
 
 
-  ### playwright  chromium  browser installations for jupyter notebook/pycharm -:
+  #### playwright  chromium  browser installations for jupyter notebook/pycharm -:
 
  `playwright install chromium`
 
@@ -192,7 +192,7 @@ In the very first step we need to install  [python](https://www.python.org/downl
 
 <div align= "start">
   
-### run script using git-:
+#### run script using git-:
 
 - you need to download git in your system:-
 - [how to install github](https://www.techrepublic.com/article/how-to-install-github-desktop/)
@@ -258,7 +258,35 @@ In the very first step we need to install  [python](https://www.python.org/downl
 - ### **Methodology**
 
 
+- steps for sentiment analysis.
 
+  **Data collection-**:- after running the  main.py script using python data will be collect in .csv format in the Data Extraction folder.
+
+  ***Classical_sentiment_analysis_approach-***
+  
+  **Data loading-**:- specify the extracted comments data path in classical sentiment analysis approach.
+
+  **Data transformations-** data cleaning, created new columns,remove stop words by stopwords.json data.
+
+  **sentiment analysis-** using prebuilt textblob library calculate [postitive negative subjectivity score](https://stackabuse.com/sentiment-analysis-in-python-with-textblob/) etc.
+
+  **visualizations-** 
+  
+
+
+
+   ***LLM_sentiment_analysis_approach-***
+  
+  **Data loading-**:- specify the extracted comments data path in llm sentiment analysis approach.
+
+  **Data transformations-** data cleaning, created new columns,remove stop words by stopwords.json data.
+
+  **sentiment analysis-** using pretrained LLM(https://www.geeksforgeeks.org/large-language-model-llm/)  [cardiffnlp/twitter-roberta-base-sentiment-latest](https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest) model downloaded from [huggingface](https://www.geeksforgeeks.org/hugging-face-transformers/) open source models library. (https://stackabuse.com/sentiment-analysis-in-python-with-textblob/) etc.
+
+ **Keyword/entity extraction-**- trump/biden to classify each comments sentiment score.
+
+  **Descriptive analysis-** calculate the median postive,median negative score.
+  
 
 
 </div>
