@@ -28,8 +28,10 @@ The main objective of this project to classify the viewers sentiment(Positive,ne
 4. [Project Structure](#Project-Structure)
 5. [Installation](#Installation)
 6. [Methodology](#Methodlogy)
-7. [Conclusion](#Conclusion)
-8. [Contributors](#Contributors)
+7. [Limitations](#Limitations)
+8. [Conclusion](#Conclusion)
+9. [Contributors](#Contributors)
+10. [Faq](#Faq)
 
  <div/>
 
@@ -352,7 +354,34 @@ In the very first step we need to install  [python](https://www.python.org/downl
 
 
 
+
+
+
+
 ***
+
+<div align= "start">
+
+
+ &nbsp; &nbsp; <a href="https://imgbb.com/"><img src="https://i.ibb.co/wJ6kKqM/problem-solving.png" alt="problem-solving" width="50" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
+ 
+</div>
+
+
+<div align= "start">
+
+ - ## **Contributors** 
+ [**Akash Prasad Mishra**](https://github.com/ak-123459)
+   
+
+</div>
+
+
+
+
+***
+
+
 <div align= "start">
 
 &nbsp; &nbsp; <a href="https://imgbb.com/"><img src="https://i.ibb.co/mS6MjVT/faq.png" width="50" alt="faq" border="0"></a>
@@ -370,12 +399,6 @@ In the very first step we need to install  [python](https://www.python.org/downl
 
 
 </div>
-
-
-
-
-
-
 
 
 
