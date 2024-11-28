@@ -281,15 +281,103 @@ In the very first step we need to install  [python](https://www.python.org/downl
 
   **Data transformations-** data cleaning, created new columns,remove stop words by stopwords.json data.
 
-  **sentiment analysis-** using pretrained [LLM](https://www.geeksforgeeks.org/large-language-model-llm/) [cardiffnlp/twitter-roberta-base-sentiment-latest](https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest) model downloaded from [huggingface](https://www.geeksforgeeks.org/hugging-face-transformers/) open source models library. (https://stackabuse.com/sentiment-analysis-in-python-with-textblob/) etc.
+  **sentiment analysis-** using pretrained [LLM](https://www.geeksforgeeks.org/large-language-model-llm/) [cardiffnlp/twitter-roberta-base-sentiment-latest](https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest) model downloaded from [huggingface](https://www.geeksforgeeks.org/hugging-face-transformers/) open source models library etc.
 
- **Keyword/entity extraction-**- trump/biden to classify each comments sentiment score.
+  **Keyword/entity extraction-**- trump/biden to classify each comments sentiment score.
 
   **Descriptive analysis-** calculate the median postive,median negative score.
   
 
 
 </div>
+
+
+***
+<div align= "start">
+
+&nbsp; &nbsp; <a href="https://imgbb.com/"><img src="https://i.ibb.co/nsvy86z/warning.png" alt="warning" width ="50" border="0"></a>
+
+</div>
+
+
+
+<div align= "start">
+
+- ### **Limitations**
+
+- master in playwright and beautiful soup library is require.
+- gpu needs to use llm for predictions.
+- speed will be slow for llm sentiment analysis compare to textblob because of alot of computations.
+- basics knowledge require about [LLM(large laguage model)](https://www.geeksforgeeks.org/large-language-model-llm/)
+
+
+
+</div>
+
+
+
+
+
+
+
+
+  
+***
+<div align= "start">
+
+&nbsp; &nbsp; <a href="https://imgbb.com/"><img src="https://i.ibb.co/wMD5NBc/conclusion.png" width="50" alt="conclusion" border="0"></a>
+
+</div>
+
+
+
+<div align= "start">
+
+
+
+- ### **Conclusion**
+
+- playwright and beautifulsoup both are very good for fast web scraping.
+- llm are better compare to classical sentiment analysis method.
+- llm have contextual result for text analysis because they was trained on large amount of text data.
+  
+
+
+
+
+</div>
+
+
+
+
+
+
+***
+<div align= "start">
+
+&nbsp; &nbsp; <a href="https://imgbb.com/"><img src="https://i.ibb.co/mS6MjVT/faq.png" width="50" alt="faq" border="0"></a>
+
+</div>
+
+
+
+<div align= "start">
+
+- ### **Faq**
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
 
 
 
