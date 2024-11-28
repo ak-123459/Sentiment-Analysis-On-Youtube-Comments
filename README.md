@@ -281,7 +281,7 @@ In the very first step we need to install  [python](https://www.python.org/downl
 
   **Data transformations-** data cleaning, created new columns,remove stop words by stopwords.json data.
 
-  **sentiment analysis-** using pretrained LLM(https://www.geeksforgeeks.org/large-language-model-llm/)  [cardiffnlp/twitter-roberta-base-sentiment-latest](https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest) model downloaded from [huggingface](https://www.geeksforgeeks.org/hugging-face-transformers/) open source models library. (https://stackabuse.com/sentiment-analysis-in-python-with-textblob/) etc.
+  **sentiment analysis-** using pretrained [LLM](https://www.geeksforgeeks.org/large-language-model-llm/)  [cardiffnlp/twitter-roberta-base-sentiment-latest](https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest) model downloaded from [huggingface](https://www.geeksforgeeks.org/hugging-face-transformers/) open source models library. (https://stackabuse.com/sentiment-analysis-in-python-with-textblob/) etc.
 
  **Keyword/entity extraction-**- trump/biden to classify each comments sentiment score.
 
